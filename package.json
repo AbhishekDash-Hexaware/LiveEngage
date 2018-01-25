@@ -3,7 +3,9 @@
   "description": "Agent sample app",
   "version": "0.0.1",
   "scripts": {
-    "start": "node ./App.js"
+    "start": "forever start -a -o ./out.log -e ./err.log --uid 'LiveEngage-Bot' app.js",
+	"test": "node app.js",
+	"stop":"forever stop LiveEngage-Bot"
   },
   "dependencies": {
     "async": "~2.1.4",
