@@ -1,7 +1,3 @@
-/* -------------------------------------------------------------------
-Copyright (c) 2017-2018 Hexaware Technologies
-This file is part of the Innovation LAB - Ricoh AI chatbot.
-------------------------------------------------------------------- */
 
 "use strict";
 var config={
