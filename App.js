@@ -1,8 +1,3 @@
-/* -------------------------------------------------------------------
-Copyright (c) 2017-2018 Hexaware Technologies
-This file is part of the Innovation LAB - Ricoh AI chatbot.
-------------------------------------------------------------------- */
-
 /*
  Startup : Loads environment variables and puts the bot online
  */
